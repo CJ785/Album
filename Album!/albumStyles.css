@@ -1,0 +1,74 @@
+body {color: black; 
+    background-color:rgb(106,106,53); 
+    margin-left: 100px; 
+    margin-right: 100px; 
+    font-weight: lighter;
+    font-family: verdana, Arial, Helvetica;
+    background-color: #4abdac; 
+}
+
+#firstdiv {
+    background-image:url("linkinpark.jpg");
+    background-size: cover; 
+    height: 400px; 
+    width: 400px; 
+    background-repeat: no-repeat; 
+    margin: auto;
+}
+
+#section1 {
+    border: black, 3px, solid;
+}
+
+#history {
+    color: black; 
+    background-color: #dfdce3;  
+    font-size: 15px; 
+    border: solid; 
+    border-color:black; 
+    border-width: 3px; 
+    text-decoration: underline;
+    margin-top: 50px; 
+    border-radius: 18px;
+}
+
+p.para1 {
+    border: black 3px solid; 
+    background-color: #dfdce3; 
+    margin-top: 50px; 
+    border-radius: 25px; 
+    text-align: left; 
+    padding: 10px; 
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+#div1 {
+    border-color: black ; 
+    border-radius: 15px;
+    background-repeat: no-repeat; 
+    width: 100%; 
+}
+
+h1 {
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    text-align: right;
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#tracklist th, td {
+    border: 1px solid black;
+    padding: 3px;
+    width: 200px;
+    background-color: #dfdce3;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#tracklist {
+    margin-left: 265px;
+}
+
