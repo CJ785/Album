@@ -55,7 +55,7 @@ h1 {
 }
 
 h3 {
-    text-align: right;
+    text-align: center;
     font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -63,7 +63,7 @@ h3 {
     border: 1px solid black;
     padding: 3px;
     width: 200px;
-    background-color: #dfdce3;
+    background-color: yellowgreen;
     text-align: center;
     border-radius: 15px;
 }
@@ -72,3 +72,22 @@ h3 {
     margin-left: 265px;
 }
 
+tbody td {
+    font-style: italic;
+}
+
+#button {
+    background-color: dodgerblue;
+    text-align: center;
+    text-decoration: none;
+    border: black 2px solid;
+    padding: 5px;
+    border-radius: 15px;
+    color: black;
+}
+
+#button:hover {
+    background-color: lime;
+    color: red;
+    text-decoration: underline;
+}
